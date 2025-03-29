@@ -15,8 +15,12 @@ Prerequisites
 
 ### Building program:
 First download all files
+-  gcc -o reminder_app *.c
+-  ./reminder_app
+
+or you can do:
 - make
-- ./reminder_app
+- ./reminders
   
 ### Key Commands
 - add [day] [message] - Add reminder
